@@ -12,8 +12,7 @@
 MT Semseg Labeler is an annotation application which can be used to label images for semantic segmentation, It can generate the mask labeling file. 
 
 -->
-Questo repository contiene i progetti utilizzati e rielaborati da noi di mectho per muovere i primi passi all'interno dell'universo microcontrollori
-
+This repository contains the projects used and reworked by mectho for taking the first steps torwards the universe of microcontrollers
 ## Getting Started <a name = "getting_started"></a>
 
 
@@ -23,10 +22,18 @@ Questo repository contiene i progetti utilizzati e rielaborati da noi di mectho 
 - CMake and Ninja build tools
 
 
-Per questi esempi abbiamo utilizato le seguenti board:
+
+For these examples we used the following boards:
 - [LILYGO® TTGO T-Display ESP32 WiFi And Bluetooth Module Development Board](http://www.lilygo.cn/prod_view.aspx?TypeId=50033&Id=1126&FId=t3:50033:3)
 - [ESP32-S2-Saola-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html)
 - [ESP32-CAM](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
+
+<p float="left">
+<img width="310" height="310" src="https://github.com/mectho/gitImages/blob/main/esp32/808b45ee-f288-4048-a4a9-b21a5d1c7e13.jpg"/>
+<img width="310" height="310" src="https://github.com/mectho/gitImages/blob/main/esp32/ESP32-S2-SAOLA-1R.jpg"/>
+<img width="310" height="310" src="https://github.com/mectho/gitImages/blob/main/esp32/DEBO_CAM_ESP32_001.jpg"/>
+ </p>
+ 
 <!--
 - python3
 - tk >= v3.6.9
