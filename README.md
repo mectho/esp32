@@ -12,7 +12,7 @@
 MT Semseg Labeler is an annotation application which can be used to label images for semantic segmentation, It can generate the mask labeling file. 
 
 -->
-This repository contains the projects used and reworked by mectho for taking the first steps torwards the universe of microcontrollers
+This repository contains the projects used and reworked by mectho for taking the first steps towards the universe of microcontrollers
 ## Getting Started <a name = "getting_started"></a>
 
 
