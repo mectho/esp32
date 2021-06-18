@@ -43,7 +43,7 @@ For these examples we used the following boards:
 
 To edit the programs we have used the following tools:
 1) [Esp-idf Get Started](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
-2) [Development Environment (VCode esp-idf extension)](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md)
+2) [Development Environment (Visual Studio Code esp-idf extension)](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md)
 <!--
 - [Download the latest release of this program from the release page.](https://github.com/Mectho/mt-semseg-labeler/releases)
 - Launch mt_semseg_labeler.py
