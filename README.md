@@ -29,9 +29,9 @@ For these examples we used the following boards:
 - [ESP32-CAM](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
 
 <p float="left">
-<img width="310" height="310" src="https://github.com/mectho/gitImages/blob/main/esp32/808b45ee-f288-4048-a4a9-b21a5d1c7e13.jpg"/>
-<img width="310" height="310" src="https://github.com/mectho/gitImages/blob/main/esp32/ESP32-S2-SAOLA-1R.jpg"/>
-<img width="310" height="310" src="https://github.com/mectho/gitImages/blob/main/esp32/DEBO_CAM_ESP32_001.jpg"/>
+<img width="250" height="250" src="https://github.com/mectho/gitImages/blob/main/esp32/808b45ee-f288-4048-a4a9-b21a5d1c7e13.jpg"/>
+<img width="250" height="250" src="https://github.com/mectho/gitImages/blob/main/esp32/ESP32-S2-SAOLA-1R.jpg"/>
+<img width="250" height="250" src="https://github.com/mectho/gitImages/blob/main/esp32/DEBO_CAM_ESP32_001.jpg"/>
  </p>
  
 <!--
@@ -48,7 +48,12 @@ For these examples we used the following boards:
 -->
 
 ## How to use <a name = "usage"></a>
+Our example projects are located in the [examples](https://github.com/mectho/esp32/examples) directory. Once you've found the project you want to work with, change to its directory and you can configure and build it.
+To start your own project based on an example, copy the example project directory outside of the examples directory.
+
 <!--
+
+
 The images must be placed within a folder along with a json file, named classes.json, where the user must indicate the different classes and the related mask pixel values.
 
 in the example, the content of classes.json is:
