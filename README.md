@@ -49,7 +49,7 @@ For these examples we used the following boards:
 
 ## How to use <a name = "usage"></a>
 Our example projects are located in the [examples](https://github.com/mectho/esp32/examples) directory. Once you've found the project you want to work with, change to its directory and you can configure and build it.
-To start your own project based on an example, copy the example project directory outside of the examples directory.
+To start your own project based on an example, copy the example project directory outside of the repository directory.
 
 <!--
 
