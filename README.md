@@ -40,6 +40,8 @@ For these examples we used the following boards:
 - Pillow >= v5.1.0
 -->
 ### Installing
+
+To edit the programs we have used the following tools:
 1) [Esp-idf Get Started](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
 2) [Development Environment (VCode esp-idf extension)](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md)
 <!--
