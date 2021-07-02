@@ -23,7 +23,7 @@ Starts a FreeRTOS task to print "Hello World".
 
 ### Installing
 
-- [Download the latest release of this program from the release page.](https://github.com/mectho/esp32/releases)
+- [Download the latest release of this repository from the release page.](https://github.com/mectho/esp32/releases)
 - move the "hello_world" folder in the esp project folder.
 
 ## How to use <a name = "usage"></a>
