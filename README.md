@@ -8,10 +8,7 @@
 
 ## About <a name = "about"></a>
 
-<!--
-MT Semseg Labeler is an annotation application which can be used to label images for semantic segmentation, It can generate the mask labeling file. 
 
--->
 This repository contains the projects used and reworked by mectho for taking the first steps towards the universe of microcontrollers
 ## Getting Started <a name = "getting_started"></a>
 
@@ -34,50 +31,16 @@ For these examples we used the following boards:
 <img width="250" height="250" src="https://github.com/mectho/gitImages/blob/main/esp32/DEBO_CAM_ESP32_001.jpg"/>
  </p>
  
-<!--
-- python3
-- tk >= v3.6.9
-- Pillow >= v5.1.0
--->
+
 ### Installing
 
 To edit the programs we have used the following tools:
 1) [Esp-idf Get Started](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
 2) [Development Environment (Visual Studio Code esp-idf extension)](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md)
-<!--
-- [Download the latest release of this program from the release page.](https://github.com/Mectho/mt-semseg-labeler/releases)
-- Launch mt_semseg_labeler.py
--->
+
 
 ## How to use <a name = "usage"></a>
 Our example projects are located in the [examples](https://github.com/mectho/esp32/tree/main/examples) directory. Once you've found the project you want to work with, change to its directory and you can configure and build it.
-To start your own project based on an example, copy the example project directory outside of the repository directory.
-
-<!--
-
-
-The images must be placed within a folder along with a json file, named classes.json, where the user must indicate the different classes and the related mask pixel values.
-
-in the example, the content of classes.json is:
-```json
-{
-"orange":10,
-"banana":15,
-"apple":20,
-"pear":25,
-"kiwi":30,
-"coconut":35,
-"medlar":40,
-"mango":45
-}
-```
-
-The outcome of the labeling is a new 8-bit unsigned image with the same dimensions of the original image, of which the pixel values correspond to the selected  classes (the specific values are defined in the file classes.json).
--->
-<!--#### First Steps
-1| Launch the program -->
-
-<!-- <img width="640" height="360" src="https://github.com/mectho/gitImages/blob/main/mt_semseg_labeler/ms-semseg%201.png"/>  -->
 
 
 ## License
