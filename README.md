@@ -50,7 +50,7 @@ To edit the programs we have used the following tools:
 -->
 
 ## How to use <a name = "usage"></a>
-Our example projects are located in the [examples](https://github.com/mectho/esp32/examples) directory. Once you've found the project you want to work with, change to its directory and you can configure and build it.
+Our example projects are located in the [examples](https://github.com/mectho/esp32/tree/main/examples) directory. Once you've found the project you want to work with, change to its directory and you can configure and build it.
 To start your own project based on an example, copy the example project directory outside of the repository directory.
 
 <!--
