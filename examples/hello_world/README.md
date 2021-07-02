@@ -9,7 +9,8 @@
 ## About <a name = "about"></a>
 
 Simple code to get started with ESP32 and ESP-IDF.
-Starts a FreeRTOS task to print "Hello World"
+
+Starts a FreeRTOS task to print "Hello World".
 
 
 ## Getting Started <a name = "getting_started"></a>
