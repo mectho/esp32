@@ -37,19 +37,19 @@ get_idf
 code .
 ```
 
-<img width="960" height="540" src="https://github.com/mectho/gitImages/blob/main/esp32/helloworld_photo/Console.png"/>
+<img width="960" height="540" src="/resources/hello_world/Console.png"/>
 2| Select Device Port
 
-<img width="960" height="540" src="https://github.com/mectho/gitImages/blob/main/esp32/helloworld_photo/DevicePort.png"/>
+<img width="960" height="540" src="/resources/hello_world/DevicePort.png"/>
 3| <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/kconfig.html">Configuration Tool (optional)</a> 
 
-<img width="960" height="540" src="https://github.com/mectho/gitImages/blob/main/esp32/helloworld_photo/ConfigurationTool.png"/>
+<img width="960" height="540" src="/resources/hello_world/ConfigurationTool.png"/>
 4| Build
 
-<img width="960" height="540" src="https://github.com/mectho/gitImages/blob/main/esp32/helloworld_photo/Build.png"/>
+<img width="960" height="540" src="/resources/hello_world/Build.png"/>
 5| Flash and Monitor
 
-<img width="960" height="540" src="https://github.com/mectho/gitImages/blob/main/esp32/helloworld_photo/FlashMonitor.png"/>
+<img width="960" height="540" src="/resources/hello_world/FlashMonitor.png"/>
 
 ## License
 
