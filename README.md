@@ -26,9 +26,9 @@ For these examples we used the following boards:
 - [ESP32-CAM](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
 
 <p float="left">
-<img width="250" height="250" src="https://github.com/mectho/gitImages/blob/main/esp32/808b45ee-f288-4048-a4a9-b21a5d1c7e13.jpg"/>
-<img width="250" height="250" src="https://github.com/mectho/gitImages/blob/main/esp32/ESP32-S2-SAOLA-1R.jpg"/>
-<img width="250" height="250" src="https://github.com/mectho/gitImages/blob/main/esp32/DEBO_CAM_ESP32_001.jpg"/>
+<img width="250" height="250" src="/resources/808b45ee-f288-4048-a4a9-b21a5d1c7e13.jpg"/>
+<img width="250" height="250" src="/resources/ESP32-S2-SAOLA-1R.jpg"/>
+<img width="250" height="250" src="/resources/DEBO_CAM_ESP32_001.jpg"/>
  </p>
  
 
