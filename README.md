@@ -1,4 +1,4 @@
-# Esp32
+# ESP32
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 ## About <a name = "about"></a>
 
 
-This repository contains the projects used and reworked by mectho for taking the first steps towards the universe of microcontrollers
+This repository contains the projects used and reworked by MecTho for taking the first steps towards the universe of microcontrollers
 ## Getting Started <a name = "getting_started"></a>
 
 
