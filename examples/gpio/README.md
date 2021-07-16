@@ -10,7 +10,6 @@
 
 Simple code to get started with ESP32 and ESP-IDF.
 This test code shows how to configure GPIO and how to use GPIO interrupt.
-
 For this test we use the [LILYGO® TTGO T-Display](http://www.lilygo.cn/prod_view.aspx?TypeId=50033&Id=1126&FId=t3:50033:3)
 
 <img width="960" height="540" src="resources/gpio/pinout_ttgo"/>
