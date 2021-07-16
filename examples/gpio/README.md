@@ -10,9 +10,10 @@
 
 Simple code to get started with ESP32 and ESP-IDF.
 This test code shows how to configure GPIO and how to use GPIO interrupt.
+
 For this test we use the [LILYGO® TTGO T-Display](http://www.lilygo.cn/prod_view.aspx?TypeId=50033&Id=1126&FId=t3:50033:3)
 
-<img width="960" height="540" src="resources/gpio/pinout_ttgo"/>
+<img src="/resources/gpio/pinout_ttgo.jpg"/>
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -31,9 +32,9 @@ For this test we use the [LILYGO® TTGO T-Display](http://www.lilygo.cn/prod_vie
 - 1| [Follow these steps](https://github.com/mectho/esp32/tree/main/examples/hello_world#usage)
 - 2| Configure GPIO using the instructions contained in Espressif [GPIO and RTC page](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/gpio.html) 
 
- The original configurations set these parameters:
- * GPIO0:  input, pulled up, interrupt from falling edge.
- * GPIO35:  input, pulled up, interrupt from rising edge and falling edge
+This is the initial configuration:
+* GPIO0:  input, pulled up, interrupt from falling edge.
+* GPIO35:  input, pulled up, interrupt from rising edge and falling edge
 
 ## License
 
